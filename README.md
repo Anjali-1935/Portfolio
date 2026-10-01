@@ -44,7 +44,7 @@ Frontend grocery shopping website built with HTML, CSS, and JavaScript.
 
 ## 📬 Connect with Me
 
-* Portfolio: [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
-* LinkedIn: [LinkedIn URL](LINKEDIN_URL)
+* Portfolio: [YOUR_PORTFOLIO_URL]([YOUR_PORTFOLIO_URL](https://portfolio-sage-alpha-udhoakdqdx.vercel.app/))
+* LinkedIn: [LinkedIn URL]([LINKEDIN_URL](https://www.linkedin.com/in/Kusumanjali-siddamreddy))
 * GitHub: https://github.com/Anjali-1935
 * Email: [kusumanjalisiddareddy@gmail.com](mailto:kusumanjalisiddareddy@gmail.com)
